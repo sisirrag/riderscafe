@@ -38,7 +38,7 @@
         <div class="row">
             <div class="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
                 <table class="table table-borderless">
-                 <CENTER><h1> <span class="badge bg-dark mt-4 mb-4">Movies</span></h1></CENTER>   
+                 <h1> <span class="badge bg-dark mt-4 mb-4">Bikes</span></h1>  
                     <div class="row row-cols-1 row-cols-md-2 g-4">
                         
                     <div class="card" style="width: 18rem;">
