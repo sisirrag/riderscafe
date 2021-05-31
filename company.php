@@ -34,12 +34,14 @@
 </nav>
 
 <body>
-    <div class="container">
+<div class="container">
         <div class="row">
-            <div class="col col-12 col-sm-3 col-md-4 col-lg-6 col-xl-12 col-xxl-12">
-                
-                    
-                        <div class="card" style="width: 18rem;">
+            <div class="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
+                <table class="table table-borderless">
+                 <CENTER><h1> <span class="badge bg-dark mt-4 mb-4">Movies</span></h1></CENTER>   
+                    <div class="row row-cols-1 row-cols-md-2 g-4">
+                        
+                    <div class="card" style="width: 18rem;">
                             <img src="https://wallpapercave.com/wp/wp2021933.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
                               <h5 class="card-title">Yamaha R1 M</h5>
@@ -47,8 +49,7 @@
                               <a href="booking.php" class="btn btn-primary">Book Now</a>
                             </div>
                           </div>
-                          
-                        <div class="card" style="width: 18rem;">
+                          <div class="card" style="width: 18rem;">
                             <img src="https://wallpapercave.com/wp/wp2239069.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
                               <h5 class="card-title">Honda CB1000RR</h5>
@@ -56,8 +57,7 @@
                               <a href="booking.php" class="btn btn-primary">Book Now</a>
                             </div>
                           </div>
-                       
-                        <div class="card" style="width: 18rem;">
+                          <div class="card" style="width: 18rem;">
                             <img src="https://wallpapercave.com/wp/wp8561078.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
                               <h5 class="card-title">Suzuki Hayabusa</h5>
@@ -65,11 +65,7 @@
                               <a href="booking.php" class="btn btn-primary">Book Now</a>
                             </div>
                           </div>
-                        
-                        
-
-                        
-                            <div class="card" style="width: 18rem;">
+                          <div class="card" style="width: 18rem;">
                                 <img src="https://wallpapercave.com/wp/wc1738478.jpg" class="card-img-top" alt="...">
                                 <div class="card-body">
                                   <h5 class="card-title">Kawasaki Ninja ZX10R</h5>
@@ -77,9 +73,7 @@
                                   <a href="booking.php" class="btn btn-primary">Book Now</a>
                                 </div>
                               </div>
-                        
-                        
-                            <div class="card" style="width: 18rem;">
+                              <div class="card" style="width: 18rem;">
                                 <img src="https://wallpapercave.com/wp/wp2546898.jpg" class="card-img-top" alt="...">
                                 <div class="card-body">
                                   <h5 class="card-title">Aprillia RSV4</h5>
@@ -87,9 +81,7 @@
                                   <a href="booking.php" class="btn btn-primary">Book Now</a>
                                 </div>
                               </div>
-                        
-                        
-                            <div class="card" style="width: 18rem;">
+                              <div class="card" style="width: 18rem;">
                                 <img src="https://wallpapercave.com/wp/wp4637574.jpg" class="card-img-top" alt="...">
                                 <div class="card-body">
                                   <h5 class="card-title">Triumph Speed Triple RS</h5>
@@ -98,18 +90,13 @@
                                 </div>
                               </div>
                         
-                  
-                
-                  
-                  
-                  
-                  
-                  
+                      </div>
 
-
+                </table>
             </div>
-        </div>
-    </div>
+      </div>
+  </div>
+    
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>   
 </body>
 </html>
