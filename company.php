@@ -46,7 +46,7 @@
                             <div class="card-body">
                               <h5 class="card-title">Yamaha R1 M</h5>
                               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                              <a href="booking.php" class="btn btn-primary">Book Now</a>
+                              <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
                             </div>
                           </div>
                           <div class="card" style="width: 18rem;">
@@ -54,7 +54,7 @@
                             <div class="card-body">
                               <h5 class="card-title">Honda CBR1000RR</h5>
                               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                              <a href="booking.php" class="btn btn-primary">Book Now</a>
+                              <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
                             </div>
                           </div>
                           <div class="card" style="width: 18rem;">
@@ -62,7 +62,7 @@
                             <div class="card-body">
                               <h5 class="card-title">Suzuki Hayabusa</h5>
                               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                              <a href="booking.php" class="btn btn-primary">Book Now</a>
+                              <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
                             </div>
                           </div>
                           <div class="card" style="width: 18rem;">
@@ -70,7 +70,7 @@
                                 <div class="card-body">
                                   <h5 class="card-title">Kawasaki Ninja ZX10R</h5>
                                   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                  <a href="booking.php" class="btn btn-primary">Book Now</a>
+                                  <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
                                 </div>
                               </div>
                               <div class="card" style="width: 18rem;">
@@ -78,7 +78,7 @@
                                 <div class="card-body">
                                   <h5 class="card-title">Aprillia RSV4</h5>
                                   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                  <a href="booking.php" class="btn btn-primary">Book Now</a>
+                                  <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
                                 </div>
                               </div>
                               <div class="card" style="width: 18rem;">
@@ -86,7 +86,7 @@
                                 <div class="card-body">
                                   <h5 class="card-title">Triumph Speed Triple RS</h5>
                                   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                  <a href="booking.php" class="btn btn-primary">Book Now</a>
+                                  <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
                                 </div>
                               </div>
                               <div class="card" style="width: 18rem;">
@@ -94,7 +94,7 @@
                             <div class="card-body">
                               <h5 class="card-title">Honda CBR1000RR</h5>
                               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                              <a href="booking.php" class="btn btn-primary">Book Now</a>
+                              <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
                             </div>
                           </div>
                           <div class="card" style="width: 18rem;">
@@ -102,7 +102,7 @@
                             <div class="card-body">
                               <h5 class="card-title">Suzuki Hayabusa</h5>
                               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                              <a href="booking.php" class="btn btn-primary">Book Now</a>
+                              <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
                             </div>
                           </div>
                           <div class="card" style="width: 18rem;">
@@ -110,7 +110,7 @@
                                 <div class="card-body">
                                   <h5 class="card-title">Kawasaki Ninja ZX10R</h5>
                                   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                  <a href="booking.php" class="btn btn-primary">Book Now</a>
+                                  <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
                                 </div>
                               </div>
                               <div class="card" style="width: 18rem;">
@@ -118,7 +118,7 @@
                                 <div class="card-body">
                                   <h5 class="card-title">Aprillia RSV4</h5>
                                   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                  <a href="booking.php" class="btn btn-primary">Book Now</a>
+                                  <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
                                 </div>
                               </div>
                               <div class="card" style="width: 18rem;">
@@ -126,7 +126,7 @@
                                 <div class="card-body">
                                   <h5 class="card-title">Triumph Speed Triple RS</h5>
                                   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                  <a href="booking.php" class="btn btn-primary">Book Now</a>
+                                  <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
                                 </div>
                               </div>
                               <div class="card" style="width: 18rem;">
@@ -134,7 +134,7 @@
                             <div class="card-body">
                               <h5 class="card-title">Honda CBR1000RR</h5>
                               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                              <a href="booking.php" class="btn btn-primary">Book Now</a>
+                              <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
                             </div>
                           </div>
                           <div class="card" style="width: 18rem;">
@@ -142,7 +142,7 @@
                             <div class="card-body">
                               <h5 class="card-title">Suzuki Hayabusa</h5>
                               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                              <a href="booking.php" class="btn btn-primary">Book Now</a>
+                              <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
                             </div>
                           </div>
                           <div class="card" style="width: 18rem;">
@@ -150,7 +150,7 @@
                                 <div class="card-body">
                                   <h5 class="card-title">Kawasaki Ninja ZX10R</h5>
                                   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                  <a href="booking.php" class="btn btn-primary">Book Now</a>
+                                  <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
                                 </div>
                               </div>
                               <div class="card" style="width: 18rem;">
@@ -158,7 +158,7 @@
                                 <div class="card-body">
                                   <h5 class="card-title">Aprillia RSV4</h5>
                                   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                  <a href="booking.php" class="btn btn-primary">Book Now</a>
+                                  <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
                                 </div>
                               </div>
                               <div class="card" style="width: 18rem;">
@@ -166,7 +166,151 @@
                                 <div class="card-body">
                                   <h5 class="card-title">Triumph Speed Triple RS</h5>
                                   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                  <a href="booking.php" class="btn btn-primary">Book Now</a>
+                                  <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
+                                </div>
+                              </div>
+                              <div class="card" style="width: 18rem;">
+                                <img src="https://wallpapercave.com/wp/wp2546898.jpg" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                  <h5 class="card-title">Aprillia RSV4</h5>
+                                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                  <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
+                                </div>
+                              </div>
+                              <div class="card" style="width: 18rem;">
+                                <img src="https://wallpapercave.com/wp/wp4637574.jpg" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                  <h5 class="card-title">Triumph Speed Triple RS</h5>
+                                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                  <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
+                                </div>
+                              </div>
+                              <div class="card" style="width: 18rem;">
+                            <img src="https://wallpapercave.com/wp/wp2239069.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                              <h5 class="card-title">Honda CBR1000RR</h5>
+                              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                              <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
+                            </div>
+                          </div>
+                          <div class="card" style="width: 18rem;">
+                            <img src="https://wallpapercave.com/wp/wp8561078.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                              <h5 class="card-title">Suzuki Hayabusa</h5>
+                              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                              <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
+                            </div>
+                          </div>
+                          <div class="card" style="width: 18rem;">
+                                <img src="https://wallpapercave.com/wp/wc1738478.jpg" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                  <h5 class="card-title">Kawasaki Ninja ZX10R</h5>
+                                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                  <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
+                                </div>
+                              </div>
+                              <div class="card" style="width: 18rem;">
+                                <img src="https://wallpapercave.com/wp/wp2546898.jpg" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                  <h5 class="card-title">Aprillia RSV4</h5>
+                                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                  <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
+                                </div>
+                              </div>
+                              <div class="card" style="width: 18rem;">
+                                <img src="https://wallpapercave.com/wp/wp2546898.jpg" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                  <h5 class="card-title">Aprillia RSV4</h5>
+                                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                  <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
+                                </div>
+                              </div>
+                              <div class="card" style="width: 18rem;">
+                                <img src="https://wallpapercave.com/wp/wp4637574.jpg" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                  <h5 class="card-title">Triumph Speed Triple RS</h5>
+                                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                  <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
+                                </div>
+                              </div>
+                              <div class="card" style="width: 18rem;">
+                            <img src="https://wallpapercave.com/wp/wp2239069.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                              <h5 class="card-title">Honda CBR1000RR</h5>
+                              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                              <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
+                            </div>
+                          </div>
+                          <div class="card" style="width: 18rem;">
+                            <img src="https://wallpapercave.com/wp/wp8561078.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                              <h5 class="card-title">Suzuki Hayabusa</h5>
+                              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                              <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
+                            </div>
+                          </div>
+                          <div class="card" style="width: 18rem;">
+                                <img src="https://wallpapercave.com/wp/wc1738478.jpg" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                  <h5 class="card-title">Kawasaki Ninja ZX10R</h5>
+                                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                  <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
+                                </div>
+                              </div>
+                              <div class="card" style="width: 18rem;">
+                                <img src="https://wallpapercave.com/wp/wp2546898.jpg" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                  <h5 class="card-title">Aprillia RSV4</h5>
+                                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                  <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
+                                </div>
+                              </div>
+                              <div class="card" style="width: 18rem;">
+                                <img src="https://wallpapercave.com/wp/wp2546898.jpg" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                  <h5 class="card-title">Aprillia RSV4</h5>
+                                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                  <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
+                                </div>
+                              </div>
+                              <div class="card" style="width: 18rem;">
+                                <img src="https://wallpapercave.com/wp/wp4637574.jpg" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                  <h5 class="card-title">Triumph Speed Triple RS</h5>
+                                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                  <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
+                                </div>
+                              </div>
+                              <div class="card" style="width: 18rem;">
+                            <img src="https://wallpapercave.com/wp/wp2239069.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                              <h5 class="card-title">Honda CBR1000RR</h5>
+                              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                              <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
+                            </div>
+                          </div>
+                          <div class="card" style="width: 18rem;">
+                            <img src="https://wallpapercave.com/wp/wp8561078.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                              <h5 class="card-title">Suzuki Hayabusa</h5>
+                              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                              <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
+                            </div>
+                          </div>
+                          <div class="card" style="width: 18rem;">
+                                <img src="https://wallpapercave.com/wp/wc1738478.jpg" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                  <h5 class="card-title">Kawasaki Ninja ZX10R</h5>
+                                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                  <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
+                                </div>
+                              </div>
+                              <div class="card" style="width: 18rem;">
+                                <img src="https://wallpapercave.com/wp/wp2546898.jpg" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                  <h5 class="card-title">Aprillia RSV4</h5>
+                                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                  <a href="booking.php" class="btn btn-outline-dark">Book Now</a>
                                 </div>
                               </div>
                         
