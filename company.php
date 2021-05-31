@@ -37,9 +37,9 @@
     <div class="container">
         <div class="row">
             <div class="col col-12 col-sm-3 col-md-4 col-lg-6 col-xl-12 col-xxl-12">
-                <table class="table">
-                    <tr>
-                        <td><div class="card" style="width: 18rem;">
+                
+                    
+                        <div class="card" style="width: 18rem;">
                             <img src="https://wallpapercave.com/wp/wp2021933.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
                               <h5 class="card-title">Yamaha R1 M</h5>
@@ -47,28 +47,28 @@
                               <a href="booking.php" class="btn btn-primary">Book Now</a>
                             </div>
                           </div>
-                          </td>
-                        <td><div class="card" style="width: 18rem;">
+                          
+                        <div class="card" style="width: 18rem;">
                             <img src="https://wallpapercave.com/wp/wp2239069.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
                               <h5 class="card-title">Honda CB1000RR</h5>
                               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                               <a href="booking.php" class="btn btn-primary">Book Now</a>
                             </div>
-                          </div></td>
+                          </div>
                        
-                        <td><div class="card" style="width: 18rem;">
+                        <div class="card" style="width: 18rem;">
                             <img src="https://wallpapercave.com/wp/wp8561078.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
                               <h5 class="card-title">Suzuki Hayabusa</h5>
                               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                               <a href="booking.php" class="btn btn-primary">Book Now</a>
                             </div>
-                          </div></td>
-                        </tr>
-                        <tr>
+                          </div>
+                        
+                        
 
-                        <td>
+                        
                             <div class="card" style="width: 18rem;">
                                 <img src="https://wallpapercave.com/wp/wc1738478.jpg" class="card-img-top" alt="...">
                                 <div class="card-body">
@@ -77,8 +77,8 @@
                                   <a href="booking.php" class="btn btn-primary">Book Now</a>
                                 </div>
                               </div>
-                        </td>
-                        <td>
+                        
+                        
                             <div class="card" style="width: 18rem;">
                                 <img src="https://wallpapercave.com/wp/wp2546898.jpg" class="card-img-top" alt="...">
                                 <div class="card-body">
@@ -87,8 +87,8 @@
                                   <a href="booking.php" class="btn btn-primary">Book Now</a>
                                 </div>
                               </div>
-                        </td>
-                        <td>
+                        
+                        
                             <div class="card" style="width: 18rem;">
                                 <img src="https://wallpapercave.com/wp/wp4637574.jpg" class="card-img-top" alt="...">
                                 <div class="card-body">
@@ -97,9 +97,8 @@
                                   <a href="booking.php" class="btn btn-primary">Book Now</a>
                                 </div>
                               </div>
-                        </td>
-                    </tr>
-                </table>
+                        
+                  
                 
                   
                   
